@@ -1,0 +1,15 @@
+{
+  "name": "react-hot-loader3",
+  "version": "1.0.0",
+  "description": "experiment with webpack@1 & reac-hot-loader@3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "react-hot-loader"
+  ],
+  "author": "Alex",
+  "license": "ISC"
+}
